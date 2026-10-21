@@ -1,0 +1,17 @@
+{
+    "providers": ["dotnet"],
+    "phases": {
+        "setup": {
+        "nixPkgs": ["dotnet-sdk_8"]
+        },
+        "install": {
+        "cmds": ["dotnet restore"]
+        },
+        "build": {
+        "cmds": ["dotnet publish Api/Testimonial.Api.csproj -c Release -o output"]
+        },
+        "start": {
+        "cmds": ["dotnet output/Testimonial.Api.dll"]
+        }
+    }
+}

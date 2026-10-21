@@ -1,0 +1,49 @@
+.topbarpage-container{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 999;
+}
+.burger-icon{
+    width: 32px;
+    height: 35px;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+    position: fixed;
+    top: 20px;
+    right: 10px;
+}
+
+.burger-icon:hover{
+    opacity: 0.7;
+}   
+
+.dropdown-menu{
+    position: absolute;
+    width: 75px;
+    top: 50px;
+    right: 0;
+    background: rgba(135, 145, 191, 0.2);
+    backdrop-filter: blur(4px);
+    padding: 10px 0;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* align-items: center;  only moves search and subject*/ 
+}
+
+.dropdown-menu a{
+    color:rgb(10, 10, 10);
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: background 0.3s ease;
+}
+
+.dropdown-menu a:hover{
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 10px;
+}
+

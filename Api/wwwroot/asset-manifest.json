@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2784ceb.css",
+    "main.js": "/static/js/main.a117a933.js",
+    "static/media/background-swirlsV.jpg": "/static/media/background-swirlsV.bd4388cba659e990df02.jpg",
+    "index.html": "/index.html",
+    "main.c2784ceb.css.map": "/static/css/main.c2784ceb.css.map",
+    "main.a117a933.js.map": "/static/js/main.a117a933.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2784ceb.css",
+    "static/js/main.a117a933.js"
+  ]
+}

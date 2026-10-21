@@ -1,0 +1,225 @@
+[33md886c43[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mroles[m[33m, [m[1;31morigin/roles[m[33m)[m Alberte finder fejl
+[33m532a86b[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m533db0a[m current updates on create Testimonial with selected teacher dropdown
+[33m4d9fc8e[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m73035d1[m tilføje opret leve-kasse, slettet ansatte kasse
+[33mf8dfe00[m Updates and tweaks for commit on application user etc.
+[33m3c9b085[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33mf05ee63[m large commit for trying to fix errors regarding pdf creation + role handling with JWT during login
+[33mca1a164[m working on admin layout
+[33mfed16b8[m Layout profile done
+[33m3ea6252[m Opdatebutton not working yet
+[33m346c19a[m Opdate first and lastname to admin. See names in database and frontend
+[33mbebe3e4[m Layout fixes to Adminpage
+[33m6df00da[m User and teachernames from database works on adminpage
+[33m92c596b[m api to show teacher and user in ecah box
+[33m116d964[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m1798d48[m huge commit: duplicate testimonialcontroller fixed, db updates, backendlogic for createtestimonial and entity logic
+[33m5da2d73[m layout on profilepage
+[33m40dd9eb[m small fixes on admin
+[33m4bfd5b4[m working on delete in user-box
+[33mb74f774[m opload phoo works
+[33mdda602f[m update button added
+[33m49b786d[m change colur, user-function works with database, buttons moves
+[33m1891187[m adminlayout improved
+[33m89007fd[m update profile page
+[33m1a504b0[m git ny email tilføjet
+[33mda607aa[m tester github
+[33m9f47ba5[m Test for github profil
+[33m84a7bb0[m Adminpage igang
+[33m124efe8[m Admin side forbedret igen
+[33mae7f1a7[m Arjbejder på admin
+[33m6b0ac1e[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33mc15981d[m Adminside forbedres
+[33m030c55d[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m9fe7803[m improved pdf layout based on PO feedback
+[33m8406e79[m admin gøres pænere
+[33m38a7695[m student table updated, getbystudentid works + small fixes
+[33m89aee4b[m students TestimonialPage colour update
+[33m18bd13c[m updated DB tables + Teachers table deleted
+[33mb3d4223[m searchPage updated colours
+[33m2940f1e[m profilepage showing + color upgrade for streamline design
+[33mf39770c[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33mddea5ea[m clean commit + login works
+[33m888b4a7[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m6c96810[m restrictions on createtestpage finished + prep for save draft and submit entry + endpoint prep
+[33m70f373c[m Igang med admin
+[33m8959bbe[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m004cafb[m coorectly stores role payload in createtespage + restictions views
+[33mc9ab994[m route to CreateTestpage added again
+[33m3e6abbc[m igang med admin
+[33m56c54f6[m migrations updated for profileimageUrl
+[33mc3949ef[m Dublikanter fjernet
+[33m8f034dc[m admin/profile-logind virker
+[33m92768cb[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m9057eb8[m api runs + usecases moved\
+[33mfdd31b7[m Api kører
+[33m20041ea[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m17e31a7[m bug fixes and cleanup of ITestimonialRepo + TestimonialRepo + ITestimonialService
+[33mc1295bd[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m64ed70f[m Alberte har fikset det hele
+[33mfde8231[m adminPage indentation + brackets saved
+[33m74dd7cf[m reference and repo/service mixup FIXED
+[33me6237e4[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33m8cfcfd6[m gem inde pull
+[33m87a4980[m identityseeder updated with new roles + error handling
+[33m0e0c1d2[m Merge branch 'roles' of https://github.com/Alfie134/testimonial-handler into roles
+[33mc5ed702[m deleted node import in frontend + added handleGenerate as empty in AdminPage
+[33m679bcde[m Merge branch 'Mathilde' into roles
+[33m9663162[m[33m ([m[1;31morigin/Mathilde[m[33m, [m[1;32mMathilde[m[33m)[m skal push til roles
+[33m447494f[m identitySeeder updated with new roles + restrictions on createTestimonialPage
+[33meda5101[m ExecuteAsync for GetTestimonialUseCase + maoToDto
+[33m4db8769[m[33m ([m[1;31morigin/role[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge branch 'Mathilde'
+[33m31624a6[m admin side igang
+[33me2a2d8f[m[33m ([m[1;31morigin/pdfManagement[m[33m)[m Merge branch 'pdfManagement'
+[33mfb776ca[m Role based restrictions for createtestimonial pages
+[33m2ac3765[m profilepage/teatimonail overisgt
+[33m44f6820[m small redirection from login to profile page on successful login
+[33m5b75385[m log out sender tilbage til logind side
+[33m214a370[m user updates for multiple roles + authorization
+[33m07b1129[m Merge med main færdig
+[33me3b29c4[m profilepage igang
+[33m9c55a77[m createtestimonialPage updated with multiple blocks, + delete and add
+[33me5c8534[m Merge branch 'pdfManagement'
+[33md1f170b[m colour change on login and createtestimonial page
+[33m3d4fd12[m omstrukturing af profile
+[33m4c72ae2[m pdf layout updated + test pdf downloadable from backend/api
+[33mae1b361[m testimonialside færdig
+[33m660da40[m üpdat for testimonial creation and storing
+[33me3b5f2c[m testimonial layout igang
+[33mffa7a3f[m forbedring af testimonial-page
+[33mf877608[m opretbruger virker igen
+[33mc137f75[m testimonialside færdig
+[33m4d01a0b[m createTestimonialPage done with updated usestate + design
+[33me204d17[m testimonialside igang
+[33m60b7c48[m searchpage opdateret
+[33m1bcd75f[m Søgeside færdig (for nu)
+[33m7fa1476[m sreach-felt færdig
+[33m2fdb8d9[m arbejder på søgeside/database
+[33mbccc73e[m inputs for createTestimonialPage updated + route to studentId
+[33md2a9f1f[m Api kører/søgeside okay
+[33m7a1b871[m testimonialDocument page methods done
+[33m05bbea1[m searchpage igang
+[33m94f2576[m søgeside backend virker, mangler frontend
+[33m5d6091a[m PDF creation + QuestPDF begun - also small changes in arhictecture and updated program.cs
+[33m237d840[m migration nulstillet
+[33me35fb8c[m first ed of createTestimonialpage
+[33m68a3e4e[m Søgeside forsat
+[33m55daaab[m søgeside frontend grovt klar
+[33m93eda59[m Merge fra main klaret
+[33m3840c2c[m Testimonial færdig
+[33m5b0476d[m updated database connection + seeder in infrastrcuture
+[33me96f718[m revert til fra 11/2
+[33mcdf19cf[m commits før revert, som skal slettes
+[33ma0f9f8c[m testimonial dto + create, along student repo + interface
+[33mfdeafab[m commit to end day prep for pdf creation
+[33mcd1416e[m Dtos added for pdf creation prep
+[33mf898d72[m Merge branch 'login'
+[33m301d55c[m[33m ([m[1;31morigin/login[m[33m)[m prep for pdf generate with files
+[33m3fffac9[m prep for pdf generate
+[33m7c29e2f[m Søgeside igang
+[33ma671a7d[m Igang med søgeside
+[33mecefc23[m igang med søgeside
+[33md2df1e9[m login flow tested = login = jwt runs smootly
+[33m56e5a21[m Opload af profilbillede
+[33md51a781[m debug and error fixing regarding login + auth flow
+[33m55d7779[m edit profile færdig for nu
+[33mf6417d1[m Dagens sidste rettelser
+[33maf03b89[m Sletning af profil virker
+[33m15da880[m CRUD virker til databasen gennem Swagger
+[33m1b1ea5f[m CRUD-funktioner færdig
+[33ma0faf9d[m Arbjder på ændre-siden
+[33mc82b675[m frontend updated for createUser fixing
+[33m4b79a00[m createUser backend error fixing
+[33m07436b4[m Add appsettings.Development template
+[33mcc9b8f2[m Merge branch 'main' into  Mathilde alfie merge
+[33mfded839[m common result class added to application
+[33m0f3a90f[m jwt small start
+[33ma9368cb[m Bug chasing buster fuck
+[33m7e8e501[m Merge branch 'main' of https://github.com/Alfie134/testimonial-handler into Mathilde
+[33m9f1535d[m Refactor identity management and remove unused files
+[33me91a0c6[m blegh
+[33m164140c[m Ekstra
+[33m7dc9a16[m usersult oprettet
+[33m2f905a7[m tilføj
+[33m3d4deb8[m cleanup of errors and warnings
+[33mc6e2688[m Clean up Identity schema (remove RoleId from AspNetUsers)
+[33m1d570c1[m deleted files because of rename and redundance
+[33mc8ccd2e[m cleanup of UserService og LoginService regarding User
+[33ma299844[m YES
+[33m04dc10b[m rettelse
+[33m3723250[m Merge branch 'main' of https://github.com/Alfie134/testimonial-handler into login
+[33md70b658[m LoginAsync in LoginService updated with SignInManager and loggig
+[33m2cf1772[m Merge branch 'login' for updated Identity for User
+[33m97c36b3[m both added merge conflict sorted for AppDbContextFactory
+[33mafdf545[m IdentitySeeder both added Conflict sorted
+[33mc9a62b3[m rettelser igen
+[33mec52243[m Domain User Reworked to standard
+[33mc9e6286[m ApplicationUser for Identity added to Infrastructure
+[33me20c049[m LoginService.cs moved to Infrastrcuture
+[33md941dfb[m Logging in auth API controller
+[33m94763bc[m ret
+[33m5ccb918[m rettet
+[33m8aae34d[m Response messages to loginAsync added
+[33m1bd5c85[m profile
+[33m1b2bc64[m Merge branch 'main' of https://github.com/Alfie134/testimonial-handler into Mathilde
+[33m458b890[m user opdated for identity + factory for db created
+[33m0fc123d[m user opdated for identity + factory for db created
+[33md379df2[m rettelse
+[33m107555c[m factory updated
+[33md7fd066[m profile
+[33m1a1295a[m migrations added to infrastructure
+[33m85c0d47[m user opdated for identity + factory for db created
+[33m7936c72[m småting
+[33m30250c4[m begun implementation of Seeding for hashing password
+[33md4cf7cc[m migrations added to infrastructure
+[33md7acfea[m Login method for api added
+[33mfa97032[m burger
+[33m92482b3[m topbar
+[33m015345b[m bruger-side
+[33m53eca3c[m det sidste
+[33m4375496[m brugerside
+[33m7d4b9bb[m cleanup and error fixing + basic login structure
+[33m27b4c88[m Onsdag
+[33mff5382e[m hey
+[33mdaff28c[m lidt
+[33m64e4db7[m frontend
+[33mf54256b[m Stop tracking bin/obj generated files
+[33m50c364e[m controller
+[33m1212010[m Merge branch 'main' of https://github.com/Alfie134/testimonial-handler into Mathilde
+[33ma0cdcb6[m 3 klasser
+[33mf8803d7[m 3 klasser
+[33m69437e1[m Features structure infrastructureMerge branch 'main' of https://github.com/Alfie134/testimonial-handler into login
+[33me36a253[m features folder structure added for infrastructure
+[33m7f56fbe[m login logic begun
+[33m3e8a053[m fix
+[33m4912549[m fix json
+[33mb6951ca[m Merge branch 'main' of https://github.com/Alfie134/testimonial-handler into Mathilde if it merges an updated upstream into a topic branch. resolve merge ng with '#' will be ignored, and an empty message aborts
+[33mddb72cd[m Fix merge
+[33m55efbcf[m Merge branch 'main' of https://github.com/Alfie134/testimonial-handler into login
+[33m91b1dce[m folder structure update for application
+[33m34b2024[m WIP:ændringer
+[33m976b8d0[m folder structure update for application
+[33m275ffe7[m overall design of LoginPage done
+[33me34aabb[m design begun of loginPage
+[33mcf75db8[m igen
+[33m3324960[m Fix
+[33m550adb7[m Fix backend package.json
+[33m8925581[m infobar navn ændret fra .cs til .css
+[33m03be39a[m basal routing forberedt
+[33m509fdfb[m routing til frontend + prep
+[33mf2f800b[m tilføj backend
+[33m781f9eb[m tilføj backend
+[33m4e527eb[m opdateret root .gitignore
+[33m51ee7ed[m Flyt ser.js og package.json til backend
+[33m9143948[m Fix railway-port
+[33m8b93dec[m remove backend node_modules and ignore generated files for behemoth commit
+[33me3846d5[m .gitignore added
+[33m07eea4b[m overordnet struktur lavet + søjler til crud og login
+[33m8c8d9b0[m backend
+[33mac13bb4[m første
+[33m4d8e043[m første
+[33me9165ab[m added references between layers + properly created snl files
+[33ma2082c0[m Classes, attributes, and relations added for entities + auth
+[33m8cd4381[m basic folders created + domain entities added
+[33m755a305[m Initial commit
